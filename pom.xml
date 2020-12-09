@@ -19,7 +19,6 @@
         <module>subModuleTest-restful</module>
     </modules>
 
-//dfdsfsdfsdfdsadsfad
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
